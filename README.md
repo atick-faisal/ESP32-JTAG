@@ -342,4 +342,4 @@ The built-in JTAG debugger of the ESP32-S3-DevKitC-1 provides a professional deb
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center"><a href="https://sites.google.com/view/mchowdhury" target="_blank">Qatar University Machine Learning Group</a>
-<p align="center"><a href="https://github.com/atick-faisal/Jetpack-Android-Starter/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atick-faisal/Jetpack-Android-Starter?style=for-the-badge&colorA=363a4f&colorB=b7bdf8"/></a></p>
+<p align="center"><a href="https://github.com/atick-faisal/ESP32-JTAG/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atick-faisal/ESP32-JTAG?style=for-the-badge&colorA=363a4f&colorB=b7bdf8"/></a></p>
