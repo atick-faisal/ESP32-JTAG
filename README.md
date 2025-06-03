@@ -338,7 +338,7 @@ The built-in JTAG debugger of the ESP32-S3-DevKitC-1 provides a professional deb
 - [ESP32-S3-DevKitC-1 Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html)
 - [PlatformIO Debugging Documentation](https://docs.platformio.org/en/latest/plus/debugging.html)
 - [ESP-IDF JTAG Debugging](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/api-guides/jtag-debugging/index.html)
-- [CLion PlatformIO Plugin](https://plugins.jetbrains.com/plugin/13861-platformio-for-clion)
+- [CLion PlatformIO Plugin](https://www.jetbrains.com/help/clion/platformio.html)
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center"><a href="https://sites.google.com/view/mchowdhury" target="_blank">Qatar University Machine Learning Group</a>
